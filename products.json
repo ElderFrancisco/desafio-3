@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "chocolate 1",
+    "description": "chocolate 1 desc",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "chocolate 2",
+    "description": "chocolate 2 desc",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc321",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "chocolate 3",
+    "description": "chocolate 3 desc",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "cba123",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "chocolate 4",
+    "description": "chocolate 4 desc",
+    "price": 500,
+    "thumbnail": "Sin imagen",
+    "code": "cba124",
+    "stock": 28
+  },
+  {
+    "id": 5,
+    "title": "chocolate 5",
+    "description": "chocolate 5 desc",
+    "price": 2,
+    "thumbnail": "Sin imagen",
+    "code": "56712356",
+    "stock": 65
+  },
+  {
+    "id": 6,
+    "title": "chocolate 6",
+    "description": "chocolate 6 desc",
+    "price": 216,
+    "thumbnail": "Sin imagen",
+    "code": "567",
+    "stock": 5
+  },
+  {
+    "id": 7,
+    "title": "chocolate 7",
+    "description": "chocolate 7 desc",
+    "price": 65,
+    "thumbnail": "Sin imagen",
+    "code": "518",
+    "stock": 95
+  },
+  {
+    "id": 8,
+    "title": "chocolate 8",
+    "description": "chocolate 8 desc",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "6516198",
+    "stock": 94
+  },
+  {
+    "id": 9,
+    "title": "chocolate 9",
+    "description": "chocolate 9 desc",
+    "price": 2,
+    "thumbnail": "Sin imagen",
+    "code": "066152",
+    "stock": 65
+  },
+  {
+    "id": 10,
+    "title": "chocolate 10",
+    "description": "chocolate 10 desc",
+    "price": 2121,
+    "thumbnail": "Sin imagen",
+    "code": "65161",
+    "stock": 211
+  }
+]
